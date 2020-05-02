@@ -1,2 +1,2 @@
-# Gesant
-Repositório de arquivos do Grupo de Estudos Gesant
+# G.E.S.A.N.T.
+Repositório Público do Grupo de Estudos em Sistemas de Aeronaves Não Tripuladas
